@@ -12,7 +12,7 @@ Solution-
 
 Our project is a Mutual Fund Recommendation System implemented in Python using various data analysis and machine learning techniques. Here's a brief summary of what we have done:
 
-1. Data Analysis and Visualization:
+1. Descriptive Analysis and Visualization:
 
 We loaded mutual fund data from a CSV file given by the Hackhive Team and performed exploratory data analysis.
 Visualized the mean returns for different categories, subcategories, AMC names, and ratings using bar plots.
